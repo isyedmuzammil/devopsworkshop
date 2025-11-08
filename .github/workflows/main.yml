@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4   
       - name: Barani CI/CD
         run:
-          echo "Step 1
+          echo "Step 1"
       - name: Barani CI/CD
         run:
           echo "Step 2"
